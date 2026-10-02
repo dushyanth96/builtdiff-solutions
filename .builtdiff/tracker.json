@@ -1,9 +1,9 @@
 {
   "stats": {
-    "totalSolved": 2,
-    "diffScore": 500,
+    "totalSolved": 3,
+    "diffScore": 1870,
     "currentStreak": 1,
-    "lastActiveDate": "2026-09-25"
+    "lastActiveDate": "2026-10-01"
   },
   "solvedMap": {
     "largest-element-in-array": {
@@ -11,11 +11,23 @@
       "manual": true
     },
     "second-largest-element-in-array": {
-      "solvedAt": 1790438446015,
-      "runtimeMs": 2
+      "solvedAt": 1790438446014,
+      "runtimeMs": 2,
+      "time": "O(n)",
+      "space": "O(1)"
+    },
+    "rotten-oranges": {
+      "solvedAt": 1790914971443,
+      "runtimeMs": 13
     }
   },
   "starredIds": [],
   "reviewQueue": [],
-  "boxState": {}
+  "boxState": {},
+  "achievements": [],
+  "comboCount": 0,
+  "lastSolveAt": null,
+  "dailySquares": {},
+  "freezes": 0,
+  "goal": null
 }
